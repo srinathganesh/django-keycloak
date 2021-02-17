@@ -1,3 +1,6 @@
+CLONE OF https://github.com/Peter-Slump/django-keycloak
+=======================================================
+
 ===============
 Django Keycloak
 ===============
